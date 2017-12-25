@@ -1,2 +1,11 @@
 theme: minima
 google_analytics: UA-107493720-1
+plugins:
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
+ - jekyll-include-cache
